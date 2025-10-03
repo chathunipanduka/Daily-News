@@ -4,7 +4,7 @@
 ## Setup Instructions
 1. Install WordPress locally (XAMPP).
 2. Create a database named `wordpress`.
-3. Import `database.sql` from this repo.
+3. Import `wordpress.sql` from this repo.
 4. Replace `wp-content` folder with the one from this repo.
 5. Update `wp-config.php` with your DB credentials.
 6. Run the site at http://localhost/wordpress
